@@ -30,7 +30,7 @@ Turn any low-end PC into a fast, lightweight machine by **debloating Windows, di
 - **Windows 11 24H2 ISO** → [Download ISO](https://windows-11.en.uptodown.com/windows/download/1029251675)  
 - **Unattended XML** → [autounattend.xml](https://github.com/memstechtips/UnattendedWinstall/blob/main/autounattend.xml)  
 - **Atlas OS** (AME Wizard + Playbook `.apbx`)  [Download Atlas OS](https://atlason.net)
-- **Chris Titus Tool** for additional tweaks  
+> 💡 **Note**: Download all the folders above in the repository 
 
 <br>
 
@@ -197,7 +197,7 @@ Disabling Windows Updates ensures that:
 
 8. When the script completes, **restart your PC**.
 
-> 💡 Note: If you see a `ctfmon.exe` error popup, run the `Suppress Windows Errors.reg` in `Stop Windows Update` folder to make it stop.
+> 💡 **Note**: If you see a `ctfmon.exe` error popup, run the `Suppress Windows Errors.reg` in `Stop Windows Update` folder to make it stop.
 
    <br>
    
@@ -206,7 +206,7 @@ Disabling Windows Updates ensures that:
 - Your system will remain stable and lightweight, with **no background driver or telemetry reinstalls**.  
 - Task Manager should now show **around 50–70 processes total** (depending on your setup).  
 
-> 💡 Tip: You can still manually update apps or drivers later if needed — just be careful not to re-enable Windows Update accidentally.
+> 💡 **Tip**: You can still manually update apps or drivers later if needed — just be careful not to re-enable Windows Update accidentally.
 
 <br>
 
