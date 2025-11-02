@@ -81,8 +81,7 @@ Turn any low-end PC into a fast, lightweight machine by **debloating Windows, di
 <br>
 
 > 💡 **Note:**  
-> If you’re on a **laptop** and your **main screen appears black or low resolution** after installing Atlas OS, don’t panic — it’s completely normal.  
-> This happens because Windows hasn’t installed your **graphics drivers** yet.  
+> If you’re on a **laptop** and your **main screen appears black or low resolution** after installing Atlas OS, it’s completely normal. This happens because Windows hasn’t installed your **graphics drivers** yet.  
 > 
 > Simply connect to Wi-Fi (if needed) and manually install your GPU drivers:
 > - 🟩 **NVIDIA laptops:** [NVIDIA Drivers](https://www.nvidia.com/Download/index.aspx)  
